@@ -21,7 +21,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
         
-          tags: bfhmea4/mea4_03_rides:latest
+          tags: jenkis94/mea4_03_rides:latest
           push: true
       
     
